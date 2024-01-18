@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shalahuddin Abdul Aziz, a Full Stack Web Developer, Mobile Developer, and Cloud Engineer.</div>  
   
 
-- 🔭 I’m currently working on a [Web Novel Site](https://github.com/1CL0UD)  
+- 🔭 I’m currently working on a [Event Ticket Web](https://github.com/1CL0UD/evently)  
   
 
 -  ☁️ I’m currently learning about GCP and AWS  
