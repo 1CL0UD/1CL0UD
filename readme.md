@@ -6,7 +6,7 @@
 ### <div align="center">I'm Shalahuddin Abdul Aziz, a Full Stack Web Developer, Mobile Developer, and Cloud Engineer.</div>  
   
 
-- 🔭 I’m currently working on a [Twitter / X Clone](https://github.com/1CL0UD/chirps)  
+- 🔭 I’m currently working on a [Twitter / X Clone](https://chirps-omega.vercel.app/)  
   
 
 -  ☁️ I’m currently learning about GCP and AWS  
